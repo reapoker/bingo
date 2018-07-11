@@ -2,7 +2,7 @@ package bingo
 
 import (
 	"strings"
-	"bingo/drivers/db/mysql"
+	"drivers/db/mysql"
 	_ "github.com/go-sql-driver/mysql"
 )
 
